@@ -24,16 +24,16 @@ c) Update this README.md file:
 
 👤 1. Student Information
 
-Name: *** Your full name *** 
-Email: *** Your email address *** 
+Name:  Chatrin Yamkleeb
+Email: 6970050921@stdent.chula.ac.th
 
 🖼️ 2. Picture
 
-*** Place Quote.* here *** 
+![Quote](Picture/Quote.png)
 
 🎞️ 3. Animation
 
-*** Place GITGIF.* here *** 
+![Git Animation](Animation/GITGIF.gif)
 
 💬 4. Quote
 
