@@ -33,7 +33,7 @@ Email: 6970050921@stdent.chula.ac.th
 
 🎞️ 3. Animation
 
-![Git Animation](Animation/GITGIF.gif)
+![Git Animation](Animation/GITGIFa.gif)
 
 💬 4. Quote
 
